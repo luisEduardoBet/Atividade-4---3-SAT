@@ -1,0 +1,129 @@
+
+============================================================
+Iniciando testes para: uf20-01.cnf | Iterações: 1500
+============================================================
+
+--- Configuração: Schedule 1 (SAmax=1) ---
+Resultados (10 execuções): [91, 91, 91, 91, 91, 91, 90, 91, 91, 90]
+Média: 90.80 | Desvio-Padrão: 0.40 | Máximo Possível: 91
+
+>>> MELHOR SOLUÇÃO ENCONTRADA: 91 / 91 cláusulas
+Vetor Final Binário:
+01110001111001101111
+
+
+--- Configuração: Schedule 1 (SAmax=100) ---
+Resultados (10 execuções): [90, 90, 91, 91, 91, 91, 91, 91, 91, 91]
+Média: 90.80 | Desvio-Padrão: 0.40 | Máximo Possível: 91
+
+>>> MELHOR SOLUÇÃO ENCONTRADA: 91 / 91 cláusulas
+Vetor Final Binário:
+10000100100001101001
+
+
+--- Configuração: Schedule 7 (SAmax=1) ---
+Resultados (10 execuções): [91, 91, 91, 91, 91, 91, 91, 91, 91, 91]
+Média: 91.00 | Desvio-Padrão: 0.00 | Máximo Possível: 91
+
+>>> MELHOR SOLUÇÃO ENCONTRADA: 91 / 91 cláusulas
+Vetor Final Binário:
+10010100010011101001
+
+
+--- Configuração: Schedule 7 (SAmax=100) ---
+Resultados (10 execuções): [91, 90, 90, 90, 91, 91, 91, 91, 90, 90]
+Média: 90.50 | Desvio-Padrão: 0.50 | Máximo Possível: 91
+
+>>> MELHOR SOLUÇÃO ENCONTRADA: 91 / 91 cláusulas
+Vetor Final Binário:
+10010001010011101001
+
+
+============================================================
+Processamento concluído. Gráfico de convergência salvo com sucesso!
+
+============================================================
+Iniciando testes para: uf100-01.cnf | Iterações: 500000
+============================================================
+
+--- Configuração: Schedule 1 (SAmax=1) ---
+Resultados (10 execuções): [428, 428, 428, 427, 429, 428, 426, 427, 429, 428]
+Média: 427.80 | Desvio-Padrão: 0.87 | Máximo Possível: 430
+
+>>> MELHOR SOLUÇÃO ENCONTRADA: 429 / 430 cláusulas
+Vetor Final Binário:
+1111100111100101010001101000110010011011101001001110111001110101001110110110101100111101000000011000
+
+
+--- Configuração: Schedule 1 (SAmax=100) ---
+Resultados (10 execuções): [428, 428, 429, 426, 426, 428, 425, 428, 427, 428]
+Média: 427.30 | Desvio-Padrão: 1.19 | Máximo Possível: 430
+
+>>> MELHOR SOLUÇÃO ENCONTRADA: 429 / 430 cláusulas
+Vetor Final Binário:
+0001101111100111000110011000000010010111001111001111101101110110111110110110101100111010000010111001
+
+
+--- Configuração: Schedule 7 (SAmax=1) ---
+Resultados (10 execuções): [427, 429, 426, 428, 425, 428, 426, 427, 428, 428]
+Média: 427.20 | Desvio-Padrão: 1.17 | Máximo Possível: 430
+
+>>> MELHOR SOLUÇÃO ENCONTRADA: 429 / 430 cláusulas
+Vetor Final Binário:
+0001100100100101010001111100111010111011001001001110111111110001000110110110100010110111000000111010
+
+
+--- Configuração: Schedule 7 (SAmax=100) ---
+Resultados (10 execuções): [428, 427, 425, 427, 427, 428, 428, 426, 427, 428]
+Média: 427.10 | Desvio-Padrão: 0.94 | Máximo Possível: 430
+
+>>> MELHOR SOLUÇÃO ENCONTRADA: 428 / 430 cláusulas
+Vetor Final Binário:
+0001100110100111010101111100110110110111111011001111010111110001100110110100100110110011000000111000
+
+
+============================================================
+Processamento concluído. Gráfico de convergência salvo com sucesso!
+
+============================================================
+Iniciando testes para: uf250-01.cnf | Iterações: 5000000
+============================================================
+
+--- Configuração: Schedule 1 (SAmax=1) ---
+Resultados (10 execuções): [1050, 1047, 1050, 1049, 1052, 1051, 1048, 1047, 1047, 1049]
+Média: 1049.00 | Desvio-Padrão: 1.67 | Máximo Possível: 1065
+
+>>> MELHOR SOLUÇÃO ENCONTRADA: 1052 / 1065 cláusulas
+Vetor Final Binário:
+0001111011000001000010000111101010111111100001101000110110110001010100110110000101010101101100010001001000111001100010000000110010011010001101001111010110111001110010011001110101011111111011111000001001001000001111011011010010010110000010101111000101
+
+
+--- Configuração: Schedule 1 (SAmax=100) ---
+Resultados (10 execuções): [1048, 1046, 1049, 1051, 1051, 1050, 1052, 1049, 1047, 1049]
+Média: 1049.20 | Desvio-Padrão: 1.78 | Máximo Possível: 1065
+
+>>> MELHOR SOLUÇÃO ENCONTRADA: 1052 / 1065 cláusulas
+Vetor Final Binário:
+0011111011100101100010001111001101111011000001100001101111101001100110111010000101110001111001000101101011001100101010010000110001000110101011001000011010100011111100001101110100111100011001111101100011000110100111011001011010101100011011110111100110
+
+
+--- Configuração: Schedule 7 (SAmax=1) ---
+Resultados (10 execuções): [1046, 1048, 1047, 1049, 1045, 1049, 1048, 1049, 1046, 1047]
+Média: 1047.40 | Desvio-Padrão: 1.36 | Máximo Possível: 1065
+
+>>> MELHOR SOLUÇÃO ENCONTRADA: 1049 / 1065 cláusulas
+Vetor Final Binário:
+0001111011110101100110001111101101111011000110100100100000101101001000100011001110110100100001010110001110000001100000010001110001010110101100000000011111100001011100001101110111111111111010010101101101001110101011110110001000000111001001111111100000
+
+
+--- Configuração: Schedule 7 (SAmax=100) ---
+Resultados (10 execuções): [1048, 1048, 1048, 1051, 1050, 1046, 1049, 1050, 1045, 1048]
+Média: 1048.30 | Desvio-Padrão: 1.73 | Máximo Possível: 1065
+
+>>> MELHOR SOLUÇÃO ENCONTRADA: 1051 / 1065 cláusulas
+Vetor Final Binário:
+0010110011101101001110000111101100011010010011110000111110101101101100101100001011110001011001010101011100100100000000000000011101101110111100101010001100111101011111011001110001111010101010110101111001101010101101010110000000000110000000001110000101
+
+
+============================================================
+Processamento concluído. Gráfico de convergência salvo com sucesso!
